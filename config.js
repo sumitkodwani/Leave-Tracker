@@ -9,7 +9,6 @@ window.LEAVE_TRACKER_CONFIG = {
   // https://docs.google.com/spreadsheets/d/  THIS_PART  /edit
   SPREADSHEET_ID: "https://docs.google.com/spreadsheets/d/14pGKdeo3SFG554aHgw5KHPYehZiDN0OsE8UO4rjUNic/edit?usp=drivesdk",
 
-
   // Tab names — only change these if you renamed the tabs in your sheet
   SHEET_OTHER_LEAVES: "Other Leaves",
   SHEET_COMP_OFF: "Comp Off",
