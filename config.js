@@ -3,7 +3,7 @@
 
 window.LEAVE_TRACKER_CONFIG = {
   // OAuth 2.0 Client ID from Google Cloud Console (Credentials → OAuth client ID → Web application)
-  CLIENT_ID: "http://331637582267-65cudgbedbg4rbkkd82jf8pq3k9v4kfs.apps.googleusercontent.com",
+  CLIENT_ID: "331637582267-65cudgbedbg4rbkkd82jf8pq3k9v4kfs.apps.googleusercontent.com",
 
   // The long ID in your Google Sheet's URL:
   // https://docs.google.com/spreadsheets/d/  THIS_PART  /edit
